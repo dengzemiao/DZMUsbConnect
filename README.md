@@ -3,7 +3,7 @@
 
 ### 使用方式
 
-*  1、1、下载 `DZMUsbConnect` 后，电脑 `usb` 链接越狱手机，打开 `命令行`，`cd` 到 `DZMUsbConnect` 文件夹
+*  1、下载 `DZMUsbConnect` 后，电脑 `usb` 链接越狱手机，打开 `命令行`，`cd` 到 `DZMUsbConnect` 文件夹
 
 *  2、映射端口
 
